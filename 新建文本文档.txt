@@ -1,0 +1,19 @@
+HTML + CSS + JavaScript
+步骤 1：准备工具 安装代码编辑器，如 Visual Studio Code 或 Sublime Text，用于编写网页代码。
+步骤 2：编写 HTML（结构） HTML 是网页的骨架，负责内容结构。
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>我的网站</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1>欢迎来到我的网站</h1></header>
+<main>
+<p>这是一个段落。</p>
+<button id="myButton">点击我</button>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
